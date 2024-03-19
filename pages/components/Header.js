@@ -150,7 +150,7 @@ export default function Header() {
                           className={pathname === '/products' ? active : inActive}
                           href="/products"
                         >
-                          Products
+                          Bicycles
                         </Link>
                       </li>
 
